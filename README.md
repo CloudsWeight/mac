@@ -13,7 +13,7 @@ The general idea is to change the boot splash screen to fake a mac boot load, th
 
 
 # Wallpaper links
-There are some good mac wallpapers on archive.org depending on what flavor you want to implement
+There are some good mac wallpapers on https://archive.org depending on what flavor you want to implement
 
 - osx : https://archive.org/details/mac_osx_wallpapers_202203/Desktop%20Pictures%20/Nature/Flowing%20Rock.jpg
 
