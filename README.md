@@ -10,3 +10,10 @@ The general idea is to change the boot splash screen to fake a mac boot load, th
 - /usr/share/grub/
 - /usr/share/desktop-base/kali-theme/
 - /usr/share/desktop-base/kali-theme/plymouth
+
+
+# Wallpaper links
+There are some good mac wallpapers on archive.org depending on what flavor you want to implement
+
+- osx : https://archive.org/details/mac_osx_wallpapers_202203/Desktop%20Pictures%20/Nature/Flowing%20Rock.jpg
+
