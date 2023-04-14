@@ -8,8 +8,9 @@ The general idea is to change the boot splash screen to fake a mac boot load, th
 - /usr/share/images/kali-logos
 - /usr/share/backgrounds/kali/kali-moto-16x9.png
 - /usr/share/grub/
-- /usr/share/desktop-base/kali-theme/
-- /usr/share/desktop-base/kali-theme/plymouth
+- /usr/share/desktop-base/kali-theme/ [ logos for logins ]
+- /usr/share/desktop-base/kali-theme/plymouth [ general ]
+- /usr/share/desktop-base/kali-theme/grub [ for boot screen files ]
 
 
 # Wallpaper links
