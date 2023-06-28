@@ -4,7 +4,7 @@ cp kali-logos/* /usr/share/kali-logos/
 
 unzip apple-mac-plymouth.zip
 
-mv apple-mac-plymouth/macOS
+mv apple-mac-plymouth macOS
 
 cp -r macOS /usr/share/plymouth/themes/.  
 
